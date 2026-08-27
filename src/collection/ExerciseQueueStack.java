@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Exercise2_Queue_Stack {
+public class ExerciseQueueStack {
     public static void main(String[] args) {
         System.out.println("\n===== 练习二 =====");
 

@@ -3,7 +3,7 @@ package collection;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
 
-public class Exercise5_OrderMap {
+public class ExerciseOrderMap {
     public static void main(String[] args) {
         System.out.println("\n===== 练习五 =====");
 

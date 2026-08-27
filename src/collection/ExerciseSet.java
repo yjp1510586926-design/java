@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.TreeSet;
 
-public class Exercise3_Set {
+public class ExerciseSet {
     public static void main(String[] args) {
         System.out.println("\n===== 练习三 =====");
 

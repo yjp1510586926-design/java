@@ -2,7 +2,7 @@ package collection;
 
 import java.util.HashMap;
 
-public class Exercise4_HashMap {
+public class ExerciseHashMap {
     public static void main(String[] args) {
         System.out.println("\n===== 练习四 =====");
 

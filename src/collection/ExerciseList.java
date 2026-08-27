@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Exercise1_List {
+public class ExerciseList {
     public static void main(String[] args) {
         System.out.println("\n===== 练习一 =====");
         List<Integer> list = new ArrayList<>();
